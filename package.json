@@ -1,0 +1,17 @@
+{
+  "name": "bs5-starter-set-up",
+  "version": "1.0.0",
+  "description": "Starter templates for Bootstrap 5",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass --no-source-map scss:css",
+    "sass:watch": "sass --no-source-map --watch scss:css"
+  },
+  "author": "IJ",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.0",
+    "bootstrap": "^5.3.3",
+    "sass": "^1.81.0"
+  }
+}
